@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "246122645194",
+    "firebase_url": "https://myprojectjatsada-869b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myprojectjatsada-869b4",
+    "storage_bucket": "myprojectjatsada-869b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246122645194:android:29fa545a48f9a837965633",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.myfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2tCLcfyK5DpMP8JDRTxyfMQvCIl60aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246122645194:android:115d813eb1a1e8a9965633",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.project3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2tCLcfyK5DpMP8JDRTxyfMQvCIl60aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246122645194:android:90174687ae3fb3de965633",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.project8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2tCLcfyK5DpMP8JDRTxyfMQvCIl60aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
